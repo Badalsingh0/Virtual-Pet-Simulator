@@ -167,8 +167,8 @@ class Program
     // Method to simulate the passage of time
     static void SimulateTimePassage(Pet pet)
     {
-        pet.Hunger = Math.Min(10, pet.Hunger + 1);
-        pet.Happiness = Math.Max(0, pet.Happiness - 1);
+        pet.Hunger = Math.Min(10, pet.Hunger + 1); // TO SIMULATE THE PASSAGE OF LINE 
+        pet.Happiness = Math.Max(0, pet.Happiness - 1); // DECREASE HEALTH DUE TO PASSAGE OF TIME
     }
 }
 

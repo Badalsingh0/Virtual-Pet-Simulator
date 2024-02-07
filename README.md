@@ -38,5 +38,6 @@ Use the main menu options to feed, play, rest, check status, or exit the simulat
 
 Requirements
 .NET Core SDK (compatible with the version used in the code)
+I use classes as well as fucnctions to reduce number of lines in a code so that i can function call to recall a set of lines.
 
 
